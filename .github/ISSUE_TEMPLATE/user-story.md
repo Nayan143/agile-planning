@@ -1,18 +1,18 @@
 ---
 name: User Story
-about: 'This template is for creating user stories '
+about: 'This is a template for user stories '
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** User  
+ **I need** to have multiple counters 
+ **So that** I can keep track of several counts at once
    
  ### Details and Assumptions
- * [document what you know]
+ * Documents will be given later 
    
  ### Acceptance Criteria  
    
